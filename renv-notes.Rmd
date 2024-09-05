@@ -1,0 +1,17 @@
+---
+title: "renv-notes"
+output: html_document
+date: "2024-09-05"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Virtual Env and Renv notes
+
+
+[Reproducible and Trustworthy Workflows for Data Science - UBC source](https://ubc-dsci.github.io/reproducible-and-trustworthy-workflows-for-data-science/materials/lectures/04-virtual-environments.html#:~:text=use%20in%20MDS.-,renv,but%20the%20commands%20are%20different.)
+[renv use tutorial - rstudio.github.io](https://rstudio.github.io/renv/index.html)
+
+

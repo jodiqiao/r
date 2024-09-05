@@ -1,0 +1,12 @@
+# R-specific files
+.RData
+.Rhistory
+.Rproj.user/
+
+# renv-specific files
+renv/library/
+renv/staging/
+renv/cache/
+
+# Other temporary files
+*.Rproj.user/
